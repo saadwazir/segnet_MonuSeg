@@ -6,7 +6,7 @@ segnet_MonuSeg
 
 Extract MonuSeg Dataset in current directory
 
-open unet-dice and run all cells to train
+open segnet_new and run all cells to train
 
 open testing_predict and change the path to desired location of testing images and run all the cells to view predictions
 
