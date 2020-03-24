@@ -6,7 +6,7 @@ segnet_MonuSeg
 
 Extract MonuSeg Dataset in current directory
 
-open segnet_new and run all cells to train and test
+open segnet_new.ipynb and run all cells to train and test
 
 
 ## Results:
